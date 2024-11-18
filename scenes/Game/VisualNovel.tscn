@@ -1,6 +1,11 @@
-[gd_scene load_steps=2 format=3 uid="uid://cx5iockjh2k45"]
+[gd_scene load_steps=7 format=3 uid="uid://cx5iockjh2k45"]
 
 [ext_resource type="Texture2D" uid="uid://bdpyc6cgxfxjo" path="res://assets/bg1.jpg" id="1_ka10x"]
+[ext_resource type="Texture2D" uid="uid://cynp3a27gsxai" path="res://assets/dialog box placeholder.jpg" id="2_n6gyj"]
+[ext_resource type="PackedScene" uid="uid://cdwvtbtwmrqbn" path="res://scenes/PauseMenu/PauseMenu.tscn" id="3_7s0x6"]
+[ext_resource type="PackedScene" uid="uid://cp3p3kqcjh0me" path="res://scenes/EndMenu/EndMenu.tscn" id="4_ecjih"]
+[ext_resource type="Texture2D" uid="uid://beg4vmqhsx6ak" path="res://icon.svg" id="5_slhnq"]
+[ext_resource type="Script" path="res://scenes/Game/Sprite2D.gd" id="6_kffnl"]
 
 [node name="VisualNovel" type="Node2D"]
 
@@ -10,3 +15,26 @@ offset_bottom = 720.0
 texture = ExtResource("1_ka10x")
 
 [node name="Dialogue Box" type="CanvasLayer" parent="."]
+
+[node name="TextureRect" type="TextureRect" parent="Dialogue Box"]
+offset_left = 80.0
+offset_top = 538.0
+offset_right = 1200.0
+offset_bottom = 708.0
+texture = ExtResource("2_n6gyj")
+expand_mode = 1
+
+[node name="GUI" type="CanvasLayer" parent="."]
+
+[node name="PauseMenu" parent="GUI" instance=ExtResource("3_7s0x6")]
+unique_name_in_owner = true
+
+[node name="EndMenu" parent="GUI" instance=ExtResource("4_ecjih")]
+unique_name_in_owner = true
+visible = false
+
+[node name="PauseChecker" type="Sprite2D" parent="."]
+visible = false
+position = Vector2(637, 143)
+texture = ExtResource("5_slhnq")
+script = ExtResource("6_kffnl")

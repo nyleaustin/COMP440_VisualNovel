@@ -1,5 +1,7 @@
 extends Node
 
+@onready var pause_menu = %PauseMenu
+
 const file_path = "res://Timeline.rk"
 
 func _ready():
@@ -21,3 +23,7 @@ func _on_execute_script_finished(file_name:String, error_str:String):
 func _process(delta):
 	if Rakugo.is_waiting_step() and Input.is_action_just_pressed("ui_accept"):
 		Rakugo.do_step()
+	if pause_menu.visible == false and Input.is_action_just_pressed("ui_cancel"):
+		pause_menu.show()
+		pause_menu.set_process(true)
+		get_tree().paused = true
