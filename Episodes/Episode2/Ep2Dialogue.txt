@@ -1,0 +1,61 @@
+Episode 2: FDOC
+Scene 1: Getting Ready for Class
+[Player stands in front of their closet, preparing for the first day of class.]
+Narrator:
+It’s your first day of classes at A&T, and you’re about to step into the academic side of college life. You’ve got a big day ahead, but first, you’ve got to decide: what’s your style for the first day?
+[Player has the option to pick an outfit for the first day.]
+Outfit 1: A cropped jersey and bubble skirt.
+Outfit 2: A cute graphic tee with baggy jeans.
+Outfit 3: A short black dress.
+Outfit 4: A casual hoodie and leggings combo—perfect for comfort.
+
+Scene 2: Walking to Class
+[Player walks through the Student Center, buzzing with excitement and nerves. The sun is shining, and students are scattered around talking and laughing.]
+Narrator:
+You make your way to your first class—Intro to Computer Programming. It’s a large lecture hall, and as you walk in, you see students already sitting down and chatting. But then, you spot someone who stands out.
+[The guy from the All White Party — sits in the front row.]
+
+Scene 3: Sitting Down in Class
+[You find an empty seat. The class is filling up, and the professor is nowhere to be seen yet.]
+Narrator:
+The classroom has a mix of familiar and unfamiliar faces. You’re about to take your seat when you realize the guy from the party is sitting a few rows ahead... and he’s looking right at you.
+[The player has the option to decide where to sit.]
+(15 Flex Dollars): Sit next to the guy from the party.
+ Sit on the other side of the room next to another guy.
+
+Scene 4: Group Project Announcement
+[The professor walks in, and the chatter dies down.]
+Professor Leflore:
+Alright class, welcome to Intro to Computer Programming, I’m Professor Leflore! For your first assignment, you’ll be paired up for a group project. You’ll be developing a Tetris game.  Feel free to pick your own partners, but if you can’t decide, I’ll assign you randomly.
+[Professor Leflore looks around, then gestures toward the seating arrangement.]
+Narrator:
+You glance around and see your options. The guy from the party is sitting just a few rows ahead, but on the other side of the room is another guy, a cute and quiet-looking guy with locs. Both are options for your project partner.
+[The player has the option to decide who to partner up with.]
+Partner up with Jaylin
+Jaylin:
+Yo, I’m Jaylin, you wanna team up for the project? I know we didn’t exactly start off on the right foot last night, but I think we could make a solid team.
+Partner up with Keem
+Keem:
+Hey, looks like we’re partners. I’m Keem, by the way. I’m really into Backend Development, so I’m sure we’ll come up with something great for this project.
+
+Scene 5: After Class – Jaylin Chases After You
+[Class ends, and students file out of the room. You grab your bag and head out when you hear someone calling after you.]
+Jaylin:
+Yo, hold up!
+He jogs over, a little out of breath, but flashing that same charming grin from the party.
+Jaylin:
+Hey, I just wanted to say sorry again for spilling my drink on you last night. I didn’t mean to, I swear.
+He laughs awkwardly.
+But I was thinking—maybe we could hang out sometime? Like, get to know each other better?
+[Player has the option to respond.]
+(Flirty): "I don’t know... you spilled a drink on me, but I’ll consider it."
+(Playful): "You’d better make it up to me first!"
+(Casual): "Yeah, I guess we can hang out. It’s no big deal."
+Jaylin:
+He grins wide, clearly relieved.
+“Cool, cool. I’ll hit you up later, okay? And again, sorry about the drink. I owe you one.”
+[He walks off, leaving you with a lot on your mind.]
+
+Narrator:
+Looks like things are heating up academically and socially. Will you be able to keep your focus on your studies... or will the drama of college life pull you in even deeper?
+[End of Scene]

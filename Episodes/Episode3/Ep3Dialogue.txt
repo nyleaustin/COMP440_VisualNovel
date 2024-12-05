@@ -1,0 +1,72 @@
+Episode 3 Prospects and Projects
+Scene 1: Getting Started on the Project
+[The player enters the library, where the project partners are meeting. The group project is for Intro to Computer Programming, and the Player is either with Jaylin or Keem.]
+Narrator:
+The project is looming, and you’re finally getting some one-on-one time with your partners. Jaylin and Keem both have their own ways of approaching schoolwork—and it’s already creating some tension. Will you be able to navigate this, or will it all fall apart?
+[If the Player is partnered with Jaylin (Love Interest #1)]
+Jaylin (laughing as he sets down his laptop):
+So, uh... what’s the plan here? I’m thinking we should chat GPT the whole thing.“What do you think? ”
+[If the Player is partnered with Keem (Love Interest #2)]
+Keem (sitting down with his books spread out in front of him):
+I think for the game we could even throw in some Easter eggs or secret levels. Imagine, like, a 'Keem Mode' where the blocks fall extra fast or something."
+
+Scene 2: Working Together – The Contrasts Begin
+[The group works through the project. The contrast between Jaylin’s playful, laid-back attitude and Keem’s focused, serious demeanor becomes clear.]
+Narrator:
+As the hours pass, the tension between your two partners is growing. Jaylin cracks jokes every few minutes, trying to keep things light, while Keem is glued to his laptop, typing away furiously.
+[If the Player is with Jaylin]
+Jaylin (laughing at his own joke):
+Yo, if we put this meme in the presentation, it’ll totally go viral! Like, who doesn’t love a good meme? —we gotta have fun with it.”
+[If the Player is with Keem]
+Keem (pointing at a page in his textbook):
+Look, if we focus on this source we can tie in these different frameworks and get the project done faster. “What do you think? ”
+[The Player has the option to choose between Jaylin’s playful ideas or Keem’s more serious approach.]
+(Go along with Jaylin’s idea): “Memes are a good idea! Let’s go with that, add some fun to this project.”
+(Go along with Keem’s idea): “Keem’s right, we should be taken seriously. Let’s focus on mental health.”
+
+Scene 3: Breaking Point
+[The project discussion continues, and the tension between the two partners builds. Jaylin grows frustrated with Keem’s seriousness, and Keem gets irritated with Jaylin’s carefree attitude.]
+[If the Player is with Jaylin]
+Jaylin (leaning back in his chair, throwing his hands up in exasperation):
+Dude, why are you being such a buzzkill? This is a college project, not a research paper for grad school! We’re supposed to have fun with it.
+He crosses his arms, pouting playfully.
+“C’mon, Keem’s the one stressing us out. Chill.”
+[If the Player is with Keem]
+Keem (sighing as he adjusts his glasses, trying to stay calm):
+Jaylin, I’m serious. This is our grade, not a joke. We can’t just throw random stuff in and hope for the best. You’re not taking this seriously.
+His voice softens, and he looks over at the Player with a more concerned expression.
+“Please, we need to focus.”
+[The Player can now choose how to respond to either partner.]
+(Defend Jaylin): “Jaylin’s right, Keem. We’re in college. Let’s have some fun with it.”
+(Defend Keem): “Keem’s right. We need to be serious if we want to actually get a good grade.”
+(Stay neutral): “Maybe we can find a middle ground. Let’s not fight over this.”
+
+Scene 4: Imani’s Subplot – Balancing College Life
+[After class, the Player meets with Imani in their dorm. Imani seems a little off, distracted.]
+Imani (fiddling with her phone):
+Hey, how’s the project going?
+She forces a smile, but you notice she seems a little stressed.
+“I dunno, I’m just trying to keep it together, y’know? My ex is, like, blowing up my phone, and... it’s just a lot right now.”
+She looks away, clearly not wanting to dive into it, but you can tell something’s wrong.
+[The Player has the option to respond.]
+(Be supportive): “You can talk to me, Imani. What’s going on with your ex?”
+(Keep it casual): “It’s okay, I get it. College life is a lot to handle.”
+(Joke it off): “Maybe it’s time to block your ex. You deserve some peace!”
+
+Scene 5: The Bold Move
+[The tension between Jaylin and Keem continues to grow throughout the day. As the group meets to finalize the project, the energy shifts.]
+[If the Player is with Jaylin]
+Jaylin (looking over at the Player, a mischievous glint in his eyes):
+So, uh... I was thinking, maybe after all this project stuff, we could hang out again. I mean, I owe you for that drink spill, right?
+He smirks, but there's a genuine warmth in his eyes.
+“We could grab coffee, or you know... whatever you’re into.”
+[If the Player is with Keem]
+Keem (looking at the Player with an earnest expression, his voice a little shaky):
+You know, I’ve really enjoyed working with you on this project. It’s been nice... seeing you focus, you know?
+He takes a breath, and before you know it, he looks straight into your eyes, his tone serious.
+“I know this might be sudden, but I think we should spend some time together outside of school. Just the two of us.”
+
+Cliffhanger:
+Narrator:
+You can feel the weight of their words hanging in the air. Both Jaylin and Keem have made it clear they’re interested... but what happens next? Will you choose to take a chance with one of them? Or will the tension between them push you away?
+[The screen fades to black.]

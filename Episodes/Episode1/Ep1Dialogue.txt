@@ -1,0 +1,92 @@
+
+Episode 1: Freshman and Fresh Men
+Scene 1: Character Design and Enrollment at A&T
+[Player customizes their character.]
+Narrator:
+Welcome to illustrious North Carolina A&T State University, the most __ HBCU in the country. You've just enrolled and it's time to start your journey. Choose your style, your vibe, and get ready to make your mark!
+[Player selects appearance and personal details.]
+
+Scene 2: Moving into the Dorm
+[Player enters the dorm building with a suitcase in hand.]
+Narrator:
+The hustle and excitement of college life await you! It's your first day at A&T, and your new dorm room is ready to welcome you. Your roommate’s name is Imani, and she seems eager to meet you.
+Imani (Roommate):
+Heyyy, its so nice to meet you! I'm Imani. I’m so excited for this school year.  We’ve got everything: basketball games, study groups, but oh—don't forget about tonight. So, what’s your major? I feel like I don’t know much about what you’re studying yet!
+Player:
+I’m doing Computer Science. I’ve always loved tech—coding, building stuff, solving problems. It just feels like the right path for me.
+Imani (nodding):
+I get that! I’m doing Nursing and honestly, it’s a mix of passion and practicality. But I also love [reason related to Imani's major], so it works.
+PC (curious):
+I didn’t know you were into Nursing!
+Imani (laughing):
+Yeah, it’s been a lot of work, but I’m in it for the long haul.
+She grins playfully.
+But hey, enough about that—are you ready for tonight?
+PC:
+What’s tonight?
+Imani (excited):
+Girl, it’s the All White Party! It’s THE event of Welcome Week—sororities, fraternities, everyone’s gonna be there. Trust me, you do NOT want to miss it.
+[Player has the option to respond.]
+(Excited): "All White Party? That sounds amazing! What’s that all about?"
+(Noninteresetd): "All White Party? I’m not a big fan of parties.
+(Nonchalant): "I don’t know, sounds cool, I guess."
+Imani:
+Girl, the All White Party is THE freshman Welcome Week event! All the hottest people, the best outfits, and the music? It's lit. Trust me, you do NOT want to miss it.
+
+Scene 3: Choosing an Outfit
+[Imani points you to a closet full of options.]
+Imani:
+Alright, let’s get you dressed. You’ve gotta turn heads tonight, okay? Pick something that says ‘I came to party.’
+[Player can choose an outfit for the White Party.]
+Outfit 1 (15 Flex Dollars): A sleek white dress with gold accessories.
+Outfit 2 (10 Flex Dollars):A sharp white button-up shirt with black jeans.
+Outfit 3: A casual yet trendy white hoodie and pants combo.
+Outfit 4: A bold, oversized white jacket with graphic tee.
+Narrator:
+Throughout the episodes, you'll have the opportunity to earn Flex Dollars by playing various mini-games. These Flex Dollars can be used to unlock upgraded outfits and exclusive choices, giving you more ways to customize your experience!
+
+
+Scene 4: Heading to the Party
+[Player and Imani step into the elevator.]
+Imani:
+You’re gonna slay tonight. Just wait, everyone's gonna be watching! The party is at the student center, Mikeys hosting, and the DJ Zae—trust me, they're gonna make it unforgettable
+[The dorm doors open to reveal a massive crowd already gathered at the entrance of the party.]
+
+Scene 5: At the Party
+[The atmosphere is electric, loud music blasting, people dancing, and everyone in their white outfits.]
+DJ Zae (announcing from the DJ booth):
+Yo, yo, yo, Can I get an Aggie Pride! I’m DJ Zae, ready to turn it UP! Who’s ready for the best All White Party of the year?!
+[Host Mikey steps up to the mic.]
+Mike (Host):
+We see you, A&T! Grab a drink, make some memories, and let’s show everyone what a real HBCU party is all about!
+
+Scene 6: The Drink Spill Incident
+[The player is standing by the stage, chatting with Imani.]
+[Suddenly, a guy rushes past you and bumps into you, spilling his drink.]
+Jaylin:
+Oh! My bad, my bad! Didn’t see you there…
+He laughs awkwardly, looking down at your outfit, now drenched in spilled drink.
+[Player has the option to respond.]
+(Sassy): "Really? You couldn’t see me in this white outfit? Come on!"
+(Chill): "It’s fine, no big deal."
+(Sarcastic): "Wow, that's the best way to make a first impression."
+Jaylin:
+I’m sorry about that. I really didn’t mean to. Let me get you another drink to make up for it?
+
+Scene 7: The Nupes Stroll By
+[As the party heats up, a group of well-dressed young men stroll by. They’re wearing the signature crimson and cream, representing the Kappa Alpha Psi fraternity.]
+Imani (whispering):
+Look, it's the Nupes. They always show out. Those guys? They're pretty much the hottest fraternity on campus.
+[Strolling]
+[Player can choose a response.]
+(Uninterested): "I came to school to pursue an education, not boys. "
+(Confident): "Let’s see if they can keep up."
+(Neutral): "Okay, they seem cool."
+[One of the Nupes stops and waves.]
+Nupe 1:
+Yo, what's up? Enjoying the party? You lookin' good in that white outfit.
+He gives a nod, a smooth grin on his face.
+
+Narrator:
+Looks like the night is just getting started, and there's plenty of fun ahead. What will you do next? Will you make a new connection, or just vibe out and let the night unfold?
+[End of Scene]
